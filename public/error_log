@@ -1,0 +1,12 @@
+[26-Dec-2022 07:42:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[26-Dec-2022 07:43:25 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[26-Dec-2022 07:44:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[31-Jan-2023 10:12:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 576
+[31-Jan-2023 10:17:24 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 576
+[31-Jan-2023 10:17:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 576
+[02-Feb-2023 05:49:16 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460
+[02-Feb-2023 05:50:10 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460
+[02-Feb-2023 05:50:44 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460
+[02-Feb-2023 05:51:00 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460
+[02-Feb-2023 05:51:30 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460
+[02-Feb-2023 05:51:56 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Controllers/ApiController.php on line 460

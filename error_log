@@ -1,0 +1,25 @@
+[07-Feb-2023 12:15:13 UTC] PHP Warning:  require_once(/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php): Failed to open stream: No such file or directory in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 12:15:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 12:15:24 UTC] PHP Warning:  require_once(/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php): Failed to open stream: No such file or directory in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 12:15:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 12:15:31 UTC] PHP Warning:  require_once(/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php): Failed to open stream: No such file or directory in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 12:15:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u0ff5puqh1q0/public_html/Zoom_scholar/public/index.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u0ff5puqh1q0/public_html/Zoom_scholar/index.php on line 21
+[07-Feb-2023 18:02:07 UTC] PHP Fatal error:  Cannot declare class App\Http\Middleware\Isadmin, because the name is already in use in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Middleware/Is_admin.php on line 8
+[07-Feb-2023 18:02:33 UTC] PHP Fatal error:  Cannot declare class App\Http\Middleware\Isadmin, because the name is already in use in /home/u0ff5puqh1q0/public_html/Zoom_scholar/app/Http/Middleware/Is_admin.php on line 8
+[14-Feb-2023 13:00:45 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[14-Feb-2023 13:02:30 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[14-Feb-2023 13:18:12 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[14-Feb-2023 13:22:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[15-Feb-2023 05:03:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[15-Feb-2023 05:06:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[15-Feb-2023 05:09:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
+[15-Feb-2023 05:36:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/u0ff5puqh1q0/public_html/Zoom_scholar/vendor/composer/platform_check.php on line 24
